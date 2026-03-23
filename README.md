@@ -10,7 +10,7 @@ A clean and responsive Cafe Menu Web Page built using pure HTML and CSS. This pr
 
 🔸 Structured menu layout with clear item and price alignment  
 🔸 Responsive container for better viewing across devices  
-🔸 Google Fonts for improved typography and consistency  
+🔸 Bunny Fonts for improved typography, consistent rendering, and better privacy
 🔸 Background image fallback using WebP and JPG  
 🔸 Semantic HTML for better accessibility  
 🔸 Hover effects for interactive elements  
