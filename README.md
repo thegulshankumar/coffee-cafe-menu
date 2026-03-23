@@ -4,6 +4,8 @@
 
 🌐 **Live Demo:** [cafe.gulshankumar.com](https://cafe.gulshankumar.com)
 
+![HTML](https://img.shields.io/badge/HTML-Validated-green) ![CSS](https://img.shields.io/badge/CSS-Validated-blue)
+
 ---
 
 ## 📸 Preview
