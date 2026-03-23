@@ -1,0 +1,91 @@
+@charset "UTF-8";
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body {
+    background-color: blanchedalmond;
+    background-image: url("images/coffee-background.webp"), url("images/coffee-background.jpg");
+    background-position: right bottom;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+}
+.container {
+    width:100%;
+    max-width:440px;
+    margin: 0 auto;
+    background-color: burlywood;
+    padding:20px;
+    border-radius: 10px;
+}
+h1, h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    margin-bottom:14px;
+    text-align: center;
+}
+h1 {
+    font-size: 30px;
+}
+h2 {
+    font-size: 22px;
+}
+.established {
+    margin-bottom:20px;
+}
+hr {
+    margin: 20px 0;
+    border: 2px solid #4e4949;
+}
+.center {
+    text-align: center;
+}
+img {
+  display: block;
+  margin: 6px auto;
+  border-radius: 6px;
+}
+.menu-item {
+    font-size:0px; 
+}
+.menu-item .item {
+  display: inline-block;
+  width: 50%;
+  text-align: left;
+  font-size: 15px;
+}
+.menu-item .price {
+  display: inline-block;
+  width: 49%;
+  text-align: right;
+  font-size: 15px;
+}
+.menu-item p {
+   margin-bottom:5px;
+}
+footer > p {
+    margin-bottom:8px;
+    text-align: center;
+    font-size:14px;
+}
+footer > address {
+    text-align: center;
+    color:black;
+    font-style: normal;
+     font-size:14px;
+}
+footer > p  > a {
+    color:black;
+    text-decoration: none;
+}
+footer > p  > a:hover {
+    color:brown;
+    text-decoration: underline;
+}
+.note {
+  margin-top:10px;
+  font-size:12px;
+  color:#2d302d;
+}
+/* Updated on 12:06 23-03-2026 IST */
