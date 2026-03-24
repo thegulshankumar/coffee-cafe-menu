@@ -36,7 +36,7 @@ Zero frameworks. Zero JavaScript. Pure HTML & CSS.
 ## 🎯 Purpose
 
 This project was built to sharpen skills in:
-- Layout precision with CSS (Flexbox / Grid)
+- Layout precision with CSS
 - Core CSS fundamentals — specificity, box model, positioning
 - Real-world UI thinking — readability, hierarchy, spacing
 - Keeping code simple, clean, and maintainable
